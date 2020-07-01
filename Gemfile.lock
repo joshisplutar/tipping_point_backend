@@ -163,6 +163,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap (>= 1.4.2)
   byebug
+  jwt
   listen (~> 3.2)
   puma (~> 4.1)
   rails (~> 6.0.3, >= 6.0.3.2)
